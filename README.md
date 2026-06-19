@@ -1,36 +1,36 @@
-# Anton Shilov
+# Антон Шилов
 
-**MSc student at ITMO University · AI Security · Machine Learning · RAG**
+**Магистрант ИТМО · Безопасность систем искусственного интеллекта · Машинное обучение · RAG**
 
-I work at the intersection of machine learning and information security. My main focus is the security of generative AI systems: anomaly detection in GenAI pipelines, trust assessment of components, RAG poisoning, indirect prompt injection, and reproducible security experiments.
+Работаю на стыке машинного обучения и информационной безопасности. Основное направление — безопасность генеративных систем искусственного интеллекта: выявление аномалий в GenAI-пайплайнах, оценка доверия к компонентам, защита RAG-систем от отравления базы знаний и косвенных prompt injection, а также проведение воспроизводимых экспериментов.
 
-## Current focus
+## Текущие направления
 
-- security and trust monitoring for generative AI pipelines;
-- defenses against RAG knowledge-base poisoning and indirect prompt injection;
-- anomaly detection using artificial immune systems and hybrid ML methods;
-- reproducible experimentation, threat modeling, and evaluation of security controls.
+- мониторинг безопасности и доверия в эксплуатационных контурах генеративного ИИ;
+- защита RAG-систем от отравления базы знаний и косвенных prompt injection;
+- выявление аномалий с применением искусственных иммунных систем и гибридных методов машинного обучения;
+- моделирование угроз, постановка экспериментов и оценка эффективности защитных механизмов.
 
-## Selected work
+## Основные проекты
 
-### [Machine Learning Projects](https://github.com/VaisouI/Ml_project)
-A collection of reproducible ML projects covering perceptrons, backpropagation, K-Means, PCA, SVM, and face classification. Each project includes executable code, experiment artifacts, and documented results.
+### [Проекты по машинному обучению](https://github.com/VaisouI/Ml_project)
+Набор воспроизводимых проектов по машинному обучению: перцептрон, обратное распространение ошибки, K-Means, PCA, SVM и классификация изображений лиц. Каждый проект содержит исполняемый код, результаты экспериментов и сохранённые артефакты.
 
-### GenAI Trust & Anomaly Detection
-Research prototype for detecting anomalous changes and estimating trust in components of operational generative AI pipelines using a bio-inspired artificial immune system approach.
+### Оценка доверия и выявление аномалий в GenAI-пайплайнах
+Исследовательский прототип для обнаружения аномальных изменений и оценки доверия к компонентам эксплуатационного контура генеративной системы ИИ на основе биоинспирированного подхода и искусственных иммунных систем.
 
-### RAG Poisoning Defense
-Research prototype for evaluating defenses against knowledge-base poisoning and indirect prompt injection in retrieval-augmented generation systems.
+### Защита RAG-систем от отравления контекста
+Исследовательский прототип для оценки методов защиты от отравления базы знаний и косвенных prompt injection в системах с поисково-дополненной генерацией.
 
-## Technical stack
+## Технический стек
 
-`Python` · `NumPy` · `pandas` · `scikit-learn` · `matplotlib` · `Git` · `RAG` · `LLM Security` · `Threat Modeling` · `Experimental Design`
+`Python` · `NumPy` · `pandas` · `scikit-learn` · `matplotlib` · `Git` · `RAG` · `безопасность LLM` · `моделирование угроз` · `планирование экспериментов`
 
-## Education
+## Образование
 
-**ITMO University**  
-Master's program in Information Security of Artificial Intelligence Systems
+**Университет ИТМО**  
+Магистратура по направлению «Безопасность систем искусственного интеллекта»
 
-## Career interests
+## Профессиональные интересы
 
-I am interested in junior and internship opportunities in **AI Security**, **ML Security**, **Data Science**, **Machine Learning**, and **MLSecOps**.
+Рассматриваю позиции и стажировки в направлениях **безопасности искусственного интеллекта**, **ML Security**, **Data Science**, **машинного обучения** и **MLSecOps**.
