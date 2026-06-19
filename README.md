@@ -70,12 +70,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VaisouI&show_icons=true&theme=github_dark&hide_border=true&locale=ru)
-
----
-
 ## 🎯 Профессиональные интересы
 
 Рассматриваю позиции и стажировки в направлениях **безопасности искусственного интеллекта**, **ML Security**, **Data Science**, **машинного обучения** и **MLSecOps**.
